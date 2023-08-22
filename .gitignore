@@ -2,3 +2,5 @@
 *.bak
 *.sav
 *.tmp
+/bib.bib.blg
+/bib.bib.bbl
